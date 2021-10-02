@@ -1,0 +1,15 @@
+/Users/alexmuir/source/codeacademy/MoneyMaker/bin/Debug/net5.0/MoneyMaker.deps.json
+/Users/alexmuir/source/codeacademy/MoneyMaker/bin/Debug/net5.0/MoneyMaker.runtimeconfig.json
+/Users/alexmuir/source/codeacademy/MoneyMaker/bin/Debug/net5.0/MoneyMaker.runtimeconfig.dev.json
+/Users/alexmuir/source/codeacademy/MoneyMaker/bin/Debug/net5.0/MoneyMaker.dll
+/Users/alexmuir/source/codeacademy/MoneyMaker/bin/Debug/net5.0/ref/MoneyMaker.dll
+/Users/alexmuir/source/codeacademy/MoneyMaker/bin/Debug/net5.0/MoneyMaker.pdb
+/Users/alexmuir/source/codeacademy/MoneyMaker/obj/Debug/net5.0/MoneyMaker.csproj.AssemblyReference.cache
+/Users/alexmuir/source/codeacademy/MoneyMaker/obj/Debug/net5.0/MoneyMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexmuir/source/codeacademy/MoneyMaker/obj/Debug/net5.0/MoneyMaker.AssemblyInfoInputs.cache
+/Users/alexmuir/source/codeacademy/MoneyMaker/obj/Debug/net5.0/MoneyMaker.AssemblyInfo.cs
+/Users/alexmuir/source/codeacademy/MoneyMaker/obj/Debug/net5.0/MoneyMaker.csproj.CoreCompileInputs.cache
+/Users/alexmuir/source/codeacademy/MoneyMaker/obj/Debug/net5.0/MoneyMaker.dll
+/Users/alexmuir/source/codeacademy/MoneyMaker/obj/Debug/net5.0/ref/MoneyMaker.dll
+/Users/alexmuir/source/codeacademy/MoneyMaker/obj/Debug/net5.0/MoneyMaker.pdb
+/Users/alexmuir/source/codeacademy/MoneyMaker/obj/Debug/net5.0/MoneyMaker.genruntimeconfig.cache
